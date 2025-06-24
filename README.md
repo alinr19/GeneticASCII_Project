@@ -1,18 +1,18 @@
-# Arta Codului Genetic: Un Generator de Arta ASCII
+# ASCII Art Genetic
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Functional-brightgreen?style=for-the-badge)
 
 Un proiect care utilizeaza puterea algoritmilor genetici pentru a transforma imagini digitale in arta compusa din caractere text (ASCII Art), cautand cea mai buna reprezentare vizuala printr-un proces evolutiv.
 
-## Demonstratie Vizuala
+## Functionalitatea Codului
 
 | Imagine Originala | Arta ASCII Generata |
 | :---------------: | :-----------------: |
-|  *pune aici o imagine originala* | *pune aici o imagine cu arta ASCII generata* |
-| `input/mr_bean.jpg` | `output/mr_bean_ascii.txt` |
+| <img src="https://github.com/user-attachments/assets/d004beb0-ce13-4803-84a2-02976a7ae242" width="300"/> | <img src="https://github.com/user-attachments/assets/1e5d51b7-2ee9-43b7-98fe-04d780633534" width="300"/> |
 
-## Caracteristici Principale
+
+## Caracteristici 
 
 -   **Conversie Imagine-ASCII**: Transforma orice imagine (`.jpg`, `.png`, etc.) intr-o matrice de caractere.
 -   **Optimizare cu Algoritmi Genetici**: Nu alege pur si simplu caractere; evolueaza o populatie de solutii pentru a gasi combinatia optima care imita cel mai bine imaginea sursa.
@@ -28,6 +28,14 @@ Un proiect care utilizeaza puterea algoritmilor genetici pentru a transforma ima
 -   **scikit-image**: Pentru calcularea metricii SSIM, nucleul functiei de fitness.
 -   **Matplotlib**: Pentru vizualizarea si salvarea graficelor de performanta.
 -   **Argparse**: Pentru a crea o interfata de linia de comanda (CLI) robusta si usor de folosit.
+
+## Resurse
+
+|        Pillow     |          MatLab     |
+| :---------------: | :-----------------: |
+| https://pillow.readthedocs.io/en/stable/ | https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/kr/2021/how-to-use-matlab-with-python.pdf |
+
+
 
 ## Utilizare
 
