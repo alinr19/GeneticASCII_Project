@@ -14,6 +14,7 @@ Un proiect care utilizeaza puterea algoritmilor genetici pentru a transforma ima
 | Evolutia Fitness-ului Genetic |
 | :-----------------: |
 | ![image](https://github.com/user-attachments/assets/73cb07d3-fc5b-4a32-98e4-6952e91ece5a) |
+Fitness-ul reprezintă gradul de similaritate dintre o imagine ASCII generată și imaginea originală .
 
 
 
