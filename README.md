@@ -11,6 +11,12 @@ Un proiect care utilizeaza puterea algoritmilor genetici pentru a transforma ima
 | :---------------: | :-----------------: |
 | <img src="https://github.com/user-attachments/assets/d004beb0-ce13-4803-84a2-02976a7ae242" width="300"/> | <img src="https://github.com/user-attachments/assets/1e5d51b7-2ee9-43b7-98fe-04d780633534" width="300"/> |
 
+| Evolutia Fitness-ului Genetic |
+| :-----------------: |
+| ![image](https://github.com/user-attachments/assets/73cb07d3-fc5b-4a32-98e4-6952e91ece5a) |
+
+
+
 
 ## Caracteristici 
 
